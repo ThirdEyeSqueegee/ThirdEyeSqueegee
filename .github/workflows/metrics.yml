@@ -22,7 +22,6 @@ jobs:
           repositories_affiliations: owner, collaborator
 
           # Core
-          config_display: columns
           config_timezone: America/Los_Angeles
 
           # Isometric calendar
