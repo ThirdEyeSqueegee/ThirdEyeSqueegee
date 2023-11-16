@@ -38,7 +38,7 @@ jobs:
           plugin_languages: true
           plugin_languages_details: percentage
           plugin_languages_other: true
-          plugin_languages_ignored: html, css
+          plugin_languages_ignored: html, css, javascript
 
           # Lines
           plugin_lines: true
